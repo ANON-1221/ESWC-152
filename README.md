@@ -17,7 +17,9 @@
     
     **Filepath (Evaluation Calc)**: [./evaluation/opinion_overlap_eval.py](./evaluation/opinion_overlap_eval.py)
     **Filepath (Evaluation Applied to all results)**: [./evaluation/eval_opinion_all.ipynb](./evaluation/eval_opinion_all.ipynb)
-    
+
+6. Test for statistical significance:
+   **Filepath**: [./evaluation/test_for_sig.ipynb](./evaluation/test_for_sig.ipynb)
 
 ## Organisation of results (Generative Model Outputs)
 
